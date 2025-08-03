@@ -21,3 +21,4 @@ frq_table = obj2.count_values()
 
 obj3 = IMAGES(frq_table).bar_chart()
 obj4 =IMAGES(frq_table).pie_chart()
+print('magicccccccccccccc')
